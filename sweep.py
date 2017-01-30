@@ -157,7 +157,7 @@ def findNextClick():
 					#time.sleep(0.2)
 					return
 	#no safe bet we will guess
-	#bestRatio = 1
+	bestRatio = 1
 	coords = (0,0)
 	numUnknownTiles = 0
 	numBombs = 99
